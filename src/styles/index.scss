@@ -1,0 +1,15 @@
+// Standard Global Styling
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+// Applied to All
+*, 
+*::after, 
+*::before {
+    box-sizing: border-box;
+}
+
+// Remove defaults
+body {
+    margin: 0;
+}
